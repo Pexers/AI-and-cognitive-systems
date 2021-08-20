@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestDeliberative" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T16:17:06" hostname="PEXERS-ASUS" time="66.75">
+  <properties/>
+  <testcase name="testDeliberative()" classname="TestDeliberative" time="66.75"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

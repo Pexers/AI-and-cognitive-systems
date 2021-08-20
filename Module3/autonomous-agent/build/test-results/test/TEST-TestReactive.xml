@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestReactive" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T21:30:16" hostname="PEXERS-ASUS" time="38.731">
+  <properties/>
+  <testcase name="testReactive()" classname="TestReactive" time="38.731"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

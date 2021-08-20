@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NetworkTestingImages" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T15:23:49" hostname="PEXERS-ASUS" time="0.078">
+<testsuite name="NetworkTestingImages" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T21:26:33" hostname="PEXERS-ASUS" time="0.096">
   <properties/>
-  <testcase name="test_network()" classname="NetworkTestingImages" time="0.078"/>
+  <testcase name="test_network()" classname="NetworkTestingImages" time="0.096"/>
   <system-out><![CDATA[Training ...
-Total Error: 0.10 | Total Iterations: 1912
+Total Error: 0.10 | Total Iterations: 889
 -----------Testing-----------
 Entries: [1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0] | Targets: [1.0, 0.0]
-Results: [0.9730050343297588, 0.3597014881765122]
+Results: [0.9602232038411446, 0.3618420677380111]
 ----------------------
 Entries: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 1.0, 0.0, 0.0, 1.0] | Targets: [0.0, 1.0]
-Results: [0.352606611063629, 0.9287887014313453]
+Results: [0.4131801418856132, 0.9260857596807237]
 ----------------------
 Entries: [0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0] | Targets: [1.0, 1.0]
-Results: [0.828996882546629, 0.7126806270364232]
+Results: [0.7798059187145883, 0.7581119546529754]
 ----------------------
 Entries: [1.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0] | Targets: [1.0, 0.0]
-Results: [0.924774277916756, 0.5591695578849942]
+Results: [0.9408617774511349, 0.45072409381838746]
 ----------------------
 Entries: [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0] | Targets: [0.0, 1.0]
-Results: [0.35859426252355936, 0.925833463147831]
+Results: [0.35616114783067293, 0.9426511449136573]
 ----------------------
 Entries: [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0] | Targets: [1.0, 1.0]
-Results: [0.619228651197708, 0.8461943646540324]
+Results: [0.7287448044722281, 0.8002931732203994]
 ----------------------
 
 ]]></system-out>

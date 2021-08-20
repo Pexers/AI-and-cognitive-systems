@@ -1,27 +1,110 @@
-9 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0
-9 -1.0  6.0  6.3  6.6  6.9  7.3  7.7  8.1 -1.0  6.9 -1.0
-9 -1.0  5.7  6.0 -1.0  7.3  7.7  8.1  8.5 -1.0  7.3 -1.0
-9 -1.0  5.7  6.0 -1.0  7.7  8.1  8.5  9.0 -1.0  7.7 -1.0
-9 -1.0  6.0  6.3 -1.0  7.7  8.1  8.5  9.0  8.5  8.1 -1.0
-9 -1.0  6.3  6.6  6.9  7.3  7.7 -1.0  8.5  8.1  7.7 -1.0
-9 -1.0  6.0  6.3  6.6  6.9  7.3  7.7  8.1  7.7  7.3 -1.0
-9 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0
-----------------
-#W  W  W  W  W  W  W  W  W  W  W  
-#W  S  X  X  X  -  -  -  W  -  W  
-#W  -  -  W  X  -  -  -  W  -  W  
-#W  -  -  W  X  X  X  G  W  -  W  
-#W  -  -  W  -  -  -  G  -  -  W  
-#W  -  -  -  -  -  W  -  -  -  W  
-#W  -  -  -  -  -  -  -  -  -  W  
-#W  W  W  W  W  W  W  W  W  W  W  
-----------------
-#W  W  W  W  W  W  W  W  W  W  W  
-#W  -  -  -  -  -  -  -  W  -  W  
-#W  -  -  W  -  -  -  -  W  -  W  
-#W  -  -  W  -  -  -  G  W  -  W  
-#W  -  -  W  X  X  X  G  -  -  W  
-#W  X  X  X  X  -  W  -  -  -  W  
-#W  S  -  -  -  -  -  -  -  -  W  
-#W  W  W  W  W  W  W  W  W  W  W  
-----------------
+(Worker 3 assigned to task 0. Cost = 45
+(Worker 6 assigned to task 1. Cost = 51
+(Worker 1 assigned to task 2. Cost = 55
+(Worker 8 assigned to task 3. Cost = 49
+(Worker 4 assigned to task 4. Cost = 59
+(Worker 5 assigned to task 5. Cost = 31
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 338
+Total time: 3723
+
+(Worker 3 assigned to task 0. Cost = 45
+(Worker 1 assigned to task 1. Cost = 51
+(Worker 6 assigned to task 2. Cost = 55
+(Worker 8 assigned to task 3. Cost = 49
+(Worker 2 assigned to task 4. Cost = 59
+(Worker 5 assigned to task 5. Cost = 31
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 338
+Total time: 1179
+
+(Worker 3 assigned to task 0. Cost = 45
+(Worker 1 assigned to task 1. Cost = 51
+(Worker 6 assigned to task 2. Cost = 55
+(Worker 8 assigned to task 3. Cost = 49
+(Worker 4 assigned to task 4. Cost = 59
+(Worker 5 assigned to task 5. Cost = 31
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 338
+Total time: 4644
+
+(Worker 3 assigned to task 0. Cost = 45
+(Worker 6 assigned to task 1. Cost = 51
+(Worker 1 assigned to task 2. Cost = 55
+(Worker 9 assigned to task 3. Cost = 60
+(Worker 5 assigned to task 4. Cost = 47
+(Worker 8 assigned to task 5. Cost = 56
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 362
+Total time: 5000
+
+(Worker 1 assigned to task 0. Cost = 35
+(Worker 4 assigned to task 1. Cost = 51
+(Worker 7 assigned to task 2. Cost = 57
+(Worker 8 assigned to task 3. Cost = 49
+(Worker 6 assigned to task 4. Cost = 59
+(Worker 5 assigned to task 5. Cost = 31
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 3 assigned to task 7. Cost = 71
+Total cost: 365
+Total time: 5000
+
+(Worker 1 assigned to task 0. Cost = 35
+(Worker 6 assigned to task 1. Cost = 63
+(Worker 9 assigned to task 2. Cost = 71
+(Worker 8 assigned to task 3. Cost = 41
+(Worker 0 assigned to task 4. Cost = 50
+(Worker 5 assigned to task 5. Cost = 31
+(Worker 3 assigned to task 6. Cost = 37
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 364
+Total time: 5000
+
+(Worker 3 assigned to task 0. Cost = 45
+(Worker 8 assigned to task 1. Cost = 63
+(Worker 5 assigned to task 2. Cost = 55
+(Worker 6 assigned to task 3. Cost = 41
+(Worker 4 assigned to task 4. Cost = 59
+(Worker 1 assigned to task 5. Cost = 31
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 342
+Total time: 2557
+
+(Worker 3 assigned to task 0. Cost = 45
+(Worker 4 assigned to task 1. Cost = 51
+(Worker 1 assigned to task 2. Cost = 55
+(Worker 8 assigned to task 3. Cost = 49
+(Worker 6 assigned to task 4. Cost = 59
+(Worker 5 assigned to task 5. Cost = 31
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 338
+Total time: 3994
+
+(Worker 1 assigned to task 0. Cost = 35
+(Worker 8 assigned to task 1. Cost = 63
+(Worker 9 assigned to task 2. Cost = 71
+(Worker 6 assigned to task 3. Cost = 41
+(Worker 4 assigned to task 4. Cost = 59
+(Worker 5 assigned to task 5. Cost = 31
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 348
+Total time: 5000
+
+(Worker 8 assigned to task 0. Cost = 39
+(Worker 6 assigned to task 1. Cost = 51
+(Worker 4 assigned to task 2. Cost = 80
+(Worker 9 assigned to task 3. Cost = 60
+(Worker 1 assigned to task 4. Cost = 48
+(Worker 5 assigned to task 5. Cost = 31
+(Worker 0 assigned to task 6. Cost = 12
+(Worker 7 assigned to task 7. Cost = 36
+Total cost: 357
+Total time: 5000
+

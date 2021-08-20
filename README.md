@@ -3,8 +3,8 @@ This repository has small projects solving generic challenges of artificial inte
 
 Every module has some gradle tests to validate the implementation.
 
-## Module1- Neural Networks
-## Module2- Optimization, Genetic Algorithm and Basic Planning
+### Module1- Neural Networks
+### Module2- Optimization, Genetic Algorithm and Basic Planning
 The challenges used for the opmitimization and genetic algorithms were inspired by google AI challenges:
 https://developers.google.com/optimization/routing
-## Module3- Autonomous Agent using Reactive, Adaptive and Deliberative layers
+### Module3- Autonomous Agent using Reactive, Adaptive and Deliberative layers

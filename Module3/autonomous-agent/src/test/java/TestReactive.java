@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 21/8/2021, Pexers (https://github.com/Pexers)
+ */
+ 
 import controller.LayerController;
 import controller.Reactive;
 import model.continuous.PositionContinuous;

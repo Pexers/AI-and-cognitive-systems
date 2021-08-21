@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 21/8/2021, Pexers (https://github.com/Pexers)
+ */
+ 
 package model.continuous;
 
 import view.Space;

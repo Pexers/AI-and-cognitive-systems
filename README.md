@@ -20,7 +20,7 @@ One of the choosen problems is to assign each worker to at most one task, with n
 </p>
 
 ### Module3 - Autonomous Agent using Reactive, Adaptive and Deliberative layers
-It is intended to realize an agent capable of navigating in a space with obstacles and a target to collect. The agent movement is continuous or discrete depending on the challenge. The first image shows a reactive agent (continuous movement) while the second one shows an adaptive agent (discrete movement).
+It is intended to realize an agent capable of navigating in a space with obstacles and a target to collect. The agent movement is continuous or discrete depending on the challenge. The first image shows a reactive agent (continuous movement) while the second one shows an adaptive agent (discrete movement). The deliberative layer uses both adaptive and reactive layer, the results obtained for the deliberative implementation weren't as good as the other ones.
 <p align="center">
 <img src="https://github.com/Pexers/AI-and-cognitive-systems/blob/master/images/module3-reactive.jpg" width="330">
 <img src="https://github.com/Pexers/AI-and-cognitive-systems/blob/master/images/module3-adaptive.jpg" width="330">

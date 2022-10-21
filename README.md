@@ -16,7 +16,7 @@ Below, it's illustrated one of the choosen problems, where the goal is to assign
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/47757441/185814121-7e1ca33e-c6cf-4eb9-9746-dbb663316a5b.png" width="400">
-<img src="https://user-images.githubusercontent.com/47757441/185814127-0b7315b2-b5ee-43b7-86ee-b52a9e9e5f45.png" width="400">
+<img src="https://user-images.githubusercontent.com/47757441/185814127-0b7315b2-b5ee-43b7-86ee-b52a9e9e5f45.png" width="380">
 </p>
 
 ### Module 3 - Autonomous Agent using Reactive, Adaptive and Deliberative layers

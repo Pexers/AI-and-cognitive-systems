@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 21/8/2021, Pexers (https://github.com/Pexers)
+ * Copyright © 11/30/2022, Pexers (https://github.com/Pexers)
  */
  
 package controller;
@@ -15,7 +15,7 @@ import java.util.Arrays;
 public class Adaptive implements Layer {
 
     private final Space space;
-    public final Agent agent, agentClone; // Clone is one step behind the Real agent
+    public final Agent agent, agentClone;  // Clone is one step behind the Real agent
     private final PositionDiscrete startingPos;
     private final Direction startingDir;
     private final double learningRate, discountFactor, emptyValue = 0.1;

@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 21/8/2021, Pexers (https://github.com/Pexers)
+ * Copyright © 11/30/2022, Pexers (https://github.com/Pexers)
  */
  
 package model.continuous;
@@ -18,8 +18,9 @@ public class Vector {
 
     public void setVectorEnd(double potential, double angle) {
         this.angle = 360 - angle;
-        end.x = Space.SQUARE_SIZE * potential * Math.cos(angle * (Math.PI / 180)); // Converting degrees to radians
-        end.y = Space.SQUARE_SIZE * potential * Math.sin(angle * (Math.PI / 180)); // Converting degrees to radians
+        // Convert degrees to radians
+        end.x = Space.SQUARE_SIZE * potential * Math.cos(angle * (Math.PI / 180));
+        end.y = Space.SQUARE_SIZE * potential * Math.sin(angle * (Math.PI / 180));
     }
 
 }

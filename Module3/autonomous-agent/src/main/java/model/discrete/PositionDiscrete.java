@@ -1,10 +1,11 @@
 /*
- * Copyright (c) 21/8/2021, Pexers (https://github.com/Pexers)
+ * Copyright © 11/30/2022, Pexers (https://github.com/Pexers)
  */
  
 package model.discrete;
 
 public class PositionDiscrete{
+
     public int x;
     public int y;
 
@@ -12,4 +13,5 @@ public class PositionDiscrete{
         this.x = x;
         this.y = y;
     }
+
 }

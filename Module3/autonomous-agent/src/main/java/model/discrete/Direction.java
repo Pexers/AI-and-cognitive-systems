@@ -1,14 +1,11 @@
 /*
- * Copyright (c) 21/8/2021, Pexers (https://github.com/Pexers)
+ * Copyright © 11/30/2022, Pexers (https://github.com/Pexers)
  */
- 
+
 package model.discrete;
 
 public enum Direction {
-    NORTH(0, -1),
-    SOUTH(0, 1),
-    EAST(1, 0),
-    WEST(-1, 0);
+    NORTH(0, -1), SOUTH(0, 1), EAST(1, 0), WEST(-1, 0);
 
     private final int xMove;
     private final int yMove;
@@ -27,12 +24,9 @@ public enum Direction {
     }
 
     public static Direction convertAngleToDirection(double angle) {
-        if (angle >= 315 || angle < 45)
-            return EAST;
-        if (angle >= 45 || angle < 135)
-            return NORTH;
-        if (angle >= 135 || angle < 225)
-            return WEST;
+        if (angle >= 315 || angle < 45) return EAST;
+        if (angle >= 45 || angle < 135) return NORTH;
+        if (angle >= 135 || angle < 225) return WEST;
         return SOUTH;
     }
 

@@ -9,11 +9,11 @@ Learning the XOR logic function using the _Forward Propagation_ algorithm for ne
 </p>
 
 ## Module 2 - _Optimization & Genetic algorithms_
-Some of the challenges included in this module optimization algorithms were inspired by Google's OR-Tools problems:
+Some of the challenges included in this module were inspired by Google's OR-Tools problems:
 - [**Traveling Salesperson**](https://developers.google.com/optimization/routing/tsp)
 - [**Assignment with Teams of Workers**](https://developers.google.com/optimization/assignment/assignment_teams)
 
-Illustrated below is the _Assignment with Teams of Workers_ problem, where the goal was to assign every worker to a single task while trying to minimize the total cost as much as possible. Two workers can't be performing the same task.
+Illustrated below, is the _Assignment with Teams of Workers_ problem, where the goal was to assign every worker to a single task while trying to minimize the total cost as much as possible. Two workers can't be performing the same task.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/47757441/185814121-7e1ca33e-c6cf-4eb9-9746-dbb663316a5b.png" width="400">
